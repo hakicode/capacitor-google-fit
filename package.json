@@ -1,6 +1,6 @@
 {
-  "name": "@perfood/capacitor-google-fit",
-  "version": "1.0.2",
+  "name": "@hakicode/capacitor-google-fit",
+  "version": "2.6.0",
   "description": "Capacitor plugin to retrieve data from Google Fit",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -15,10 +15,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/perfood/capacitor-google-fit.git"
+    "url": "git+https://github.com/hakicode/capacitor-google-fit.git"
   },
   "bugs": {
-    "url": "https://github.com/perfood/capacitor-google-fit/issues"
+    "url": "https://github.com/hakicode/capacitor-google-fit/issues"
   },
   "keywords": [
     "capacitor",

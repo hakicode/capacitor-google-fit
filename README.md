@@ -1,6 +1,6 @@
 # Google Fit Plugin
 
-Capacitor plugin to retrieve data from Google Fit
+Capacitor plugin to retrieve data from Google Fit - **Support Capacitor V6**
 
 ### Install
 

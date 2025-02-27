@@ -1,5 +1,5 @@
 {
-  "name": "@hakicode/capacitor-google-fit",
+  "name": "@perfood/capacitor-google-fit",
   "version": "2.6.0",
   "description": "Capacitor plugin to retrieve data from Google Fit",
   "main": "dist/plugin.cjs.js",

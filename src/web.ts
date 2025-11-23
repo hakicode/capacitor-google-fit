@@ -4,10 +4,7 @@ import type { AllowedResult, GoogleFitPlugin } from './definitions';
 
 export class GoogleFitWeb extends WebPlugin implements GoogleFitPlugin {
   constructor() {
-    super({
-      name: 'GoogleFit',
-      platforms: ['web'],
-    });
+    super();
   }
 
   async connectToGoogleFit(): Promise<void> {

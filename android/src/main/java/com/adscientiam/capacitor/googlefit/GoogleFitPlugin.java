@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.util.Log;
 import androidx.annotation.NonNull;
 import com.getcapacitor.JSObject;
-import com.getcapacitor.NativePlugin;
 import com.getcapacitor.Plugin;
 import com.getcapacitor.PluginCall;
 import com.getcapacitor.PluginMethod;
@@ -35,7 +34,6 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 @CapacitorPlugin(name = "GoogleFit")
-@NativePlugin(requestCodes = { GoogleFitPlugin.GOOGLE_FIT_PERMISSIONS_REQUEST_CODE, GoogleFitPlugin.RC_SIGN_IN })
 public class GoogleFitPlugin extends Plugin {
 
     public static final String TAG = "HistoryApi";

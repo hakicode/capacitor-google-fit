@@ -1,6 +1,6 @@
 {
   "name": "@perfood/capacitor-google-fit",
-  "version": "2.6.0",
+  "version": "7.0.0",
   "description": "Capacitor plugin to retrieve data from Google Fit",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -54,8 +54,8 @@
     "typescript": "5.2.2"
   },
   "peerDependencies": {
-    "@capacitor/core": "^6.0.0",
-    "@capacitor/android": "^6.0.0"
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/android": "^7.0.0"
   },
   "prettier": "@ionic/prettier-config",
   "swiftlint": "@ionic/swiftlint-config",
